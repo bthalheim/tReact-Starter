@@ -1,0 +1,23 @@
+{
+  "name": "treact-starter",
+  "version": "1.0.0",
+  "description": "Basic react starter project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bthalheim/tReact-Starter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bthalheim/tReact-Starter/issues"
+  },
+  "homepage": "https://github.com/bthalheim/tReact-Starter#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
