@@ -4,7 +4,7 @@
   "description": "Basic react starter project.",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server .",
+    "start": "webpack-dev-server ./src",
     "build": "webpack ."
   },
   "repository": {
